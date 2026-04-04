@@ -1,8 +1,8 @@
 export const brand = {
   name: 'Gaithubs',
   tagline: '3D Design & Blender Services',
-  phone: '+966 57 579 9094',
-  email: 'hello@gaithubs.com',
+  phone: '+966575799094',
+  email: 'ghaitalhomadani@gmail.com',
   location: 'الرياض، المملكة العربية السعودية',
 }
 
